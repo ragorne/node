@@ -6,7 +6,7 @@
     "scripts": {
         "start": "node app2.js"
     },
-    "author": "moi",
+    "author": "DRAPEAU Fabien",
     "license": "ISC",
     "dependencies": {
         "body-parser": "^1.18.3",
